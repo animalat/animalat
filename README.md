@@ -1,7 +1,7 @@
 ### Hi I'm [nakshayan](https://nakshayan.github.io/) 👋
 
 - I'm a software engineer currently in my first year of university 📚
-- Currently, I am particularly interested in machine learning and artificial intelligence 🤖
+- I am particularly interested in machine learning and artificial intelligence 🤖
 <!--
 **nakshayan/nakshayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
