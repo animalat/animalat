@@ -2,6 +2,8 @@
 
 - I'm a software engineer currently in my first year of university 📚
 - I am particularly interested in machine learning and artificial intelligence 🤖
+
+- Most of my repositories are not currently available to the public.
 <!--
 **nakshayan/nakshayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
