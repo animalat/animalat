@@ -1,4 +1,4 @@
-### Hi I'm [Akshayan](https://nakshayan.github.io/) 👋
+### Hi I'm Akshayan 👋
 
 - I'm a software engineer currently in my first year of university 📚
 - I am particularly interested in machine learning and artificial intelligence 🤖
