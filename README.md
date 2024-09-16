@@ -1,4 +1,4 @@
-### Hi I'm nakshayan 👋
+### Hi I'm Akshayan 👋
 
 - I'm currently studying computer science at university 📚
 
